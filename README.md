@@ -1,4 +1,4 @@
-<h3>Skills</h3>
+<p>Skills</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
